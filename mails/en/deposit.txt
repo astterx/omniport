@@ -1,0 +1,11 @@
+Hi {firstname} {lastname},
+Thank you for choosing to pay for your recent {shop_name} order through our finance option!
+Congratulations! As you might already be aware, our Finance provider Omni Capital has deemed your application as successful and your loan request has been approved.
+The next step in order to finalise your order is to make a payment for your agreed deposit amount by Bank Transfer using the following details:
+
+Name: COMPANY NAME
+Sort Code: 12-34-56
+Account Number: 12345678
+Amount: £{deposit_amount}
+
+We look forward to receiving your deposit and getting the parts ready for shipping!
