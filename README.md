@@ -1,4 +1,4 @@
-# omniport
+# omniport - Prestashop module
 This module allows you to offer installment plans for the products you sell making your products affordable to a wider range of customers.
 
 The system is paperless and credit applications are made online and this module allows you to offer installment plans for the products you sell.
